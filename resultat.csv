@@ -1,25 +1,81 @@
 titre,prix_solde,prix_avant_reduction,note,lien_image
-12 Roses Orange à Longue Tige,44.99,69.99,4.0,https://live.data.necs.ca/storage/products/12_roses_orange__longue_tige_thumb.webp?lastmode=1751510022?lastmode=1751510022
-Délice Rose & Rouge,69.99,109.99,4.0,https://live.data.necs.ca/storage/products/dlice_rose__rouge_thumb.webp?lastmode=1751510022?lastmode=1751510022
-Bouquet Chérie,44.99,74.99,4.0,https://live.data.necs.ca/storage/products/bouquet_chrie__thumb.webp?lastmode=1751510022?lastmode=1751510022
-Marguerites Ensoleillées,29.99,49.99,4.0,https://live.data.necs.ca/storage/products/sunshine_daisies_thumb.webp?lastmode=1751510022?lastmode=1751510022
-Meilleur Vendeur,90.99,90.99,4.0,https://live.data.necs.ca/storage/products/meilleur_vendeur__thumb.webp?lastmode=1751510022?lastmode=1751510022
-Ensemble-cadeau de roses d'été et de ballons mélangés,46.99,46.99,4.0,https://live.data.necs.ca/storage/products/roses__mini_mylar_balloons_thumb.webp?lastmode=1751510022?lastmode=1751510022
-Câlins et Bisous III,39.99,79.99,5.0,https://live.data.necs.ca/storage/products/hugs_and_kisses_iii_thumb.webp?lastmode=1751510022?lastmode=1751510022
-L'amour le plus pur de Cœur,49.99,69.99,4.0,https://live.data.necs.ca/storage/products/heart__stroke_purest_love_thumb.webp?lastmode=1751510022?lastmode=1751510022
-Câlins et Bisous II,34.99,69.99,5.0,https://live.data.necs.ca/storage/products/hugs_and_kisses_i_thumb.webp?lastmode=1751510022?lastmode=1751510022
-50 fleurs d'Alstroemeria II,44.99,94.99,5.0,https://live.data.necs.ca/storage/products/50_blooms_of_alstroemeria_ii_thumb.webp?lastmode=1751510022?lastmode=1751510022
-Rouge et blanc II,61.99,61.99,5.0,https://live.data.necs.ca/storage/products/red__white_iii_thumb.webp?lastmode=1751510022?lastmode=1751510022
-Avec Coeur,52.99,52.99,5.0,https://live.data.necs.ca/storage/products/with_heart_thumb.webp?lastmode=1751510022?lastmode=1751510022
-Cœur Enchanté,49.99,74.99,5.0,https://live.data.necs.ca/storage/products/enchanted_heart_thumb.webp?lastmode=1751510026?lastmode=1751510026
-Rhapsodie Rouge,59.99,89.99,4.0,https://live.data.necs.ca/storage/products/red_rhapsody_thumb.webp?lastmode=1751510026?lastmode=1751510026
-Câlins et Bisous I,44.99,69.99,4.0,https://live.data.necs.ca/storage/products/heartfelt_kisses_thumb.webp?lastmode=1751510026?lastmode=1751510026
-Danse dans les Marguerites,49.99,69.99,5.0,https://live.data.necs.ca/storage/products/dancing_in_daisies_thumb.webp?lastmode=1751510026?lastmode=1751510026
-Fleurs d'Amour,29.99,49.99,4.0,https://live.data.necs.ca/storage/products/blooms_of_love.webp?lastmode=1751510026?lastmode=1751510026
-Rêver en Rose,52.99,52.99,4.0,https://live.data.necs.ca/storage/products/pink_dreams_thumb.webp?lastmode=1751510026?lastmode=1751510026
-Collection de Chérie I,53.99,53.99,4.0,https://live.data.necs.ca/storage/products/sweetheart_collection_i_thumb.webp?lastmode=1751510026?lastmode=1751510026
-Sweetheart Collection II,63.99,63.99,5.0,https://live.data.necs.ca/storage/products/sweetheart_collection_ii_thumb.webp?lastmode=1751510026?lastmode=1751510026
-Apportez le Printemps,44.99,64.99,5.0,https://live.data.necs.ca/storage/products/bring_on_spring_bouquet_thumb.webp?lastmode=1751510026?lastmode=1751510026
-Clin d'œil Rose dans un Bocal Maçon,34.99,64.99,5.0,https://live.data.necs.ca/storage/products/pink_wink_in_mason_jar_300x350.webp?lastmode=1751510026?lastmode=1751510026
-Brise D'été en Bocal Maçon,29.99,59.99,5.0,https://live.data.necs.ca/storage/products/mj0113776_300x350.webp?lastmode=1751510026?lastmode=1751510026
-Quel Plaisir en Bocal Maçon,34.99,69.99,5.0,https://live.data.necs.ca/storage/products/mj10004137761_300x350.webp?lastmode=1751510026?lastmode=1751510026
+12 Roses Orange à Longue Tige,44.99,69.99,4.0,https://live.data.necs.ca/storage/products/12_roses_orange__longue_tige_thumb.webp?lastmode=1751510240?lastmode=1751510240
+Délice Rose & Rouge,69.99,109.99,4.0,https://live.data.necs.ca/storage/products/dlice_rose__rouge_thumb.webp?lastmode=1751510240?lastmode=1751510240
+Bouquet Chérie,44.99,74.99,4.0,https://live.data.necs.ca/storage/products/bouquet_chrie__thumb.webp?lastmode=1751510240?lastmode=1751510240
+Marguerites Ensoleillées,29.99,49.99,4.0,https://live.data.necs.ca/storage/products/sunshine_daisies_thumb.webp?lastmode=1751510240?lastmode=1751510240
+Meilleur Vendeur,90.99,90.99,4.0,https://live.data.necs.ca/storage/products/meilleur_vendeur__thumb.webp?lastmode=1751510240?lastmode=1751510240
+Ensemble-cadeau de roses d'été et de ballons mélangés,46.99,46.99,4.0,https://live.data.necs.ca/storage/products/roses__mini_mylar_balloons_thumb.webp?lastmode=1751510240?lastmode=1751510240
+Câlins et Bisous III,39.99,79.99,5.0,https://live.data.necs.ca/storage/products/hugs_and_kisses_iii_thumb.webp?lastmode=1751510240?lastmode=1751510240
+L'amour le plus pur de Cœur,49.99,69.99,4.0,https://live.data.necs.ca/storage/products/heart__stroke_purest_love_thumb.webp?lastmode=1751510240?lastmode=1751510240
+Câlins et Bisous II,34.99,69.99,5.0,https://live.data.necs.ca/storage/products/hugs_and_kisses_i_thumb.webp?lastmode=1751510240?lastmode=1751510240
+50 fleurs d'Alstroemeria II,44.99,94.99,5.0,https://live.data.necs.ca/storage/products/50_blooms_of_alstroemeria_ii_thumb.webp?lastmode=1751510240?lastmode=1751510240
+Rouge et blanc II,61.99,61.99,5.0,https://live.data.necs.ca/storage/products/red__white_iii_thumb.webp?lastmode=1751510240?lastmode=1751510240
+Avec Coeur,52.99,52.99,5.0,https://live.data.necs.ca/storage/products/with_heart_thumb.webp?lastmode=1751510240?lastmode=1751510240
+Cœur Enchanté,49.99,74.99,5.0,https://live.data.necs.ca/storage/products/enchanted_heart_thumb.webp?lastmode=1751510243?lastmode=1751510243
+Rhapsodie Rouge,59.99,89.99,4.0,https://live.data.necs.ca/storage/products/red_rhapsody_thumb.webp?lastmode=1751510243?lastmode=1751510243
+Câlins et Bisous I,44.99,69.99,4.0,https://live.data.necs.ca/storage/products/heartfelt_kisses_thumb.webp?lastmode=1751510243?lastmode=1751510243
+Danse dans les Marguerites,49.99,69.99,4.0,https://live.data.necs.ca/storage/products/dancing_in_daisies_thumb.webp?lastmode=1751510243?lastmode=1751510243
+Fleurs d'Amour,29.99,49.99,5.0,https://live.data.necs.ca/storage/products/blooms_of_love.webp?lastmode=1751510243?lastmode=1751510243
+Rêver en Rose,52.99,52.99,4.0,https://live.data.necs.ca/storage/products/pink_dreams_thumb.webp?lastmode=1751510243?lastmode=1751510243
+Collection de Chérie I,53.99,53.99,5.0,https://live.data.necs.ca/storage/products/sweetheart_collection_i_thumb.webp?lastmode=1751510243?lastmode=1751510243
+Sweetheart Collection II,63.99,63.99,5.0,https://live.data.necs.ca/storage/products/sweetheart_collection_ii_thumb.webp?lastmode=1751510243?lastmode=1751510243
+Apportez le Printemps,44.99,64.99,4.0,https://live.data.necs.ca/storage/products/bring_on_spring_bouquet_thumb.webp?lastmode=1751510243?lastmode=1751510243
+Clin d'œil Rose dans un Bocal Maçon,34.99,64.99,4.0,https://live.data.necs.ca/storage/products/pink_wink_in_mason_jar_300x350.webp?lastmode=1751510243?lastmode=1751510243
+Brise D'été en Bocal Maçon,29.99,59.99,5.0,https://live.data.necs.ca/storage/products/mj0113776_300x350.webp?lastmode=1751510243?lastmode=1751510243
+Quel Plaisir en Bocal Maçon,34.99,69.99,4.0,https://live.data.necs.ca/storage/products/mj10004137761_300x350.webp?lastmode=1751510243?lastmode=1751510243
+Nuances de Printemps dans un Bocal Maçon,34.99,64.99,5.0,https://live.data.necs.ca/storage/products/mj7916_137761_0_300x350.webp?lastmode=1751510246?lastmode=1751510246
+L'amour et le Rire,60.99,60.99,5.0,https://live.data.necs.ca/storage/products/love_and_laughter_bouquet_thumb.webp?lastmode=1751510246?lastmode=1751510246
+Bouquet Meilleur Vendeur de Noël,83.99,83.99,5.0,https://live.data.necs.ca/storage/products/bestseller_bouquet.webp?lastmode=1751510246?lastmode=1751510246
+Après-midi au Jardin,79.99,124.99,4.0,https://live.data.necs.ca/storage/products/afternoon_in_the_garden.webp?lastmode=1751510246?lastmode=1751510246
+Matin Clair,60.99,60.99,4.0,https://live.data.necs.ca/storage/products/morning_bright_thumb.webp?lastmode=1751510246?lastmode=1751510246
+Nuances de Printemps,34.99,54.99,4.0,https://live.data.necs.ca/storage/products/shades_of_spring.webp?lastmode=1751510246?lastmode=1751510246
+Collection de Fleurs Douces I,62.99,62.99,4.0,https://live.data.necs.ca/storage/products/sweet_blossoms_collection_i_0.webp?lastmode=1751510246?lastmode=1751510246
+Collection de Fleurs Douces III,34.99,81.99,4.0,https://live.data.necs.ca/storage/products/sweet_blossoms_collection_iii_thumb.webp?lastmode=1751510246?lastmode=1751510246
+Douce Tendresse,39.99,64.99,5.0,https://live.data.necs.ca/storage/products/sweet_tenderness.webp?lastmode=1751510246?lastmode=1751510246
+6 Roses Mélangées,34.99,64.99,4.0,https://live.data.necs.ca/storage/products/6_mixed_long_stem_roses_thumb.webp?lastmode=1751510246?lastmode=1751510246
+Élégance Blanche,99.99,149.99,4.0,https://live.data.necs.ca/storage/products/white_elegance.webp?lastmode=1751510246?lastmode=1751510246
+Voler la Vedette,64.99,99.99,5.0,https://live.data.necs.ca/storage/products/steal_the_show.webp?lastmode=1751510246?lastmode=1751510246
+L'amour Céleste,44.99,66.99,4.0,https://live.data.necs.ca/storage/products/celestial_love.webp?lastmode=1751510249?lastmode=1751510249
+Tous pour Vous,44.99,69.99,5.0,https://live.data.necs.ca/storage/products/heres_to_you_.webp?lastmode=1751510249?lastmode=1751510249
+Libellule,49.99,74.99,4.0,https://live.data.necs.ca/storage/products/dragonfly.webp?lastmode=1751510249?lastmode=1751510249
+Toujours une Dame,54.99,74.99,5.0,https://live.data.necs.ca/storage/products/always_a_lady.webp?lastmode=1751510249?lastmode=1751510249
+Agrumes Embrassa,44.99,69.99,5.0,https://live.data.necs.ca/storage/products/citrus_kissed.webp?lastmode=1751510249?lastmode=1751510249
+Pure Dévotion,34.99,59.99,5.0,https://live.data.necs.ca/storage/products/pure_devotion.webp?lastmode=1751510249?lastmode=1751510249
+Lumiére des étoiles Sérénade,44.99,64.99,5.0,https://live.data.necs.ca/storage/products/starlight_serenade_.webp?lastmode=1751510249?lastmode=1751510249
+Roses et Perles,49.99,79.99,5.0,https://live.data.necs.ca/storage/products/roses_and_pearls_thumb.webp?lastmode=1751510249?lastmode=1751510249
+Clin d'oeil Rose,49.99,74.99,5.0,https://live.data.necs.ca/storage/products/pink_wink.webp?lastmode=1751510249?lastmode=1751510249
+Bouquet Balayé,109.99,169.99,5.0,https://live.data.necs.ca/storage/products/swept_away_bouquet_.webp?lastmode=1751510249?lastmode=1751510249
+Jolie en Rose,54.99,74.99,5.0,https://live.data.necs.ca/storage/products/pretty_in_pink.webp?lastmode=1751510249?lastmode=1751510249
+Jour Glorieux,49.99,74.99,5.0,https://live.data.necs.ca/storage/products/glorious_day_thumb.webp?lastmode=1751510249?lastmode=1751510249
+Hamptons Célestes,68.99,103.99,4.0,https://live.data.necs.ca/storage/products/heavenly_hamptons.webp?lastmode=1751510252?lastmode=1751510252
+Bliss Plage,79.99,79.99,5.0,https://live.data.necs.ca/storage/products/beachside_bliss_thumb.webp?lastmode=1751510252?lastmode=1751510252
+Équinoxe de Printemps,54.99,84.99,5.0,https://live.data.necs.ca/storage/products/spring_equinox.webp?lastmode=1751510252?lastmode=1751510252
+Poésie en Rose,79.99,119.99,4.0,https://live.data.necs.ca/storage/products/poetry_in_pink.webp?lastmode=1751510252?lastmode=1751510252
+Amour pour Toujours,49.99,89.99,5.0,https://live.data.necs.ca/storage/products/always_and_forever.webp?lastmode=1751510252?lastmode=1751510252
+Quel Régal,34.99,69.99,4.0,https://live.data.necs.ca/storage/products/what_a_treat.webp?lastmode=1751510252?lastmode=1751510252
+Bonheur de l'Été,39.99,64.99,4.0,https://live.data.necs.ca/storage/products/enchanted_cottage_thumb.webp?lastmode=1751510252?lastmode=1751510252
+Sucrerie de Coton,44.99,69.99,4.0,https://live.data.necs.ca/storage/products/cotton_candy_thumb.webp?lastmode=1751510252?lastmode=1751510252
+Nuances De Rose,19.99,19.99,5.0,https://live.data.necs.ca/storage/products/pink_ribbon_thumb.webp?lastmode=1751510252?lastmode=1751510252
+Joie Bleue et Blanche,94.99,144.99,5.0,https://live.data.necs.ca/storage/products/blue_and_white_joy.webp?lastmode=1751510252?lastmode=1751510252
+Explosion de Carnation,34.99,69.99,4.0,https://live.data.necs.ca/storage/products/crimson_delight.webp?lastmode=1751510252?lastmode=1751510252
+Fou pour Vous,49.99,74.99,5.0,https://live.data.necs.ca/storage/products/crazy_for_you_bouquet_.webp?lastmode=1751510252?lastmode=1751510252
+Magnifique Printemps,29.99,49.99,4.0,https://live.data.necs.ca/storage/products/splendid_spring_thumb.webp?lastmode=1751510255?lastmode=1751510255
+Simplement Douce,44.99,69.99,4.0,https://live.data.necs.ca/storage/products/simply_sweet.webp?lastmode=1751510255?lastmode=1751510255
+Plaisir Délicat,39.99,64.99,5.0,https://live.data.necs.ca/storage/products/delicate_delight_300x350.webp?lastmode=1751510255?lastmode=1751510255
+Roses Précieuses,69.99,104.99,4.0,https://live.data.necs.ca/storage/products/precious_pinks.webp?lastmode=1751510255?lastmode=1751510255
+Tourbillons de Mandarine,62.99,93.99,4.0,https://live.data.necs.ca/storage/products/mandarin_swirls.webp?lastmode=1751510255?lastmode=1751510255
+Extravagance rose et lilas,99.99,149.99,4.0,https://live.data.necs.ca/storage/products/pink__lilac_extravaganza.webp?lastmode=1751510255?lastmode=1751510255
+Bouquet de Lys Célestes,79.99,119.99,4.0,https://live.data.necs.ca/storage/products/celestial_lilies_bouquet.webp?lastmode=1751510255?lastmode=1751510255
+L'amour Infini,69.99,119.99,4.0,https://live.data.necs.ca/storage/products/endless_love_thumb.webp?lastmode=1751510255?lastmode=1751510255
+Fleurs de Cerisier,74.99,109.99,4.0,https://live.data.necs.ca/storage/products/cherry_blossoms_0_300x350.webp?lastmode=1751510255?lastmode=1751510255
+Roses délectables,96.99,96.99,4.0,https://live.data.necs.ca/storage/products/delectable_pinks.webp?lastmode=1751510255?lastmode=1751510255
+Lilas Rougissant,75.99,75.99,4.0,https://live.data.necs.ca/storage/products/blushing_lilac.webp?lastmode=1751510255?lastmode=1751510255
+Super Mufliers,19.99,39.99,4.0,https://live.data.necs.ca/storage/products/super_snapdragons_thumb.webp?lastmode=1751510255?lastmode=1751510255
+Souvenirs Émouvants,107.99,107.99,5.0,https://live.data.necs.ca/storage/products/fond_remembrance.webp?lastmode=1751510258?lastmode=1751510258
+Se sentir pêche,49.99,79.99,4.0,https://live.data.necs.ca/storage/products/feeling_peachy.webp?lastmode=1751510258?lastmode=1751510258
+Lever de soleil tôt,86.99,86.99,5.0,https://live.data.necs.ca/storage/products/early_sunrise_thumb.webp?lastmode=1751510258?lastmode=1751510258
+Rayons de lumière,101.99,101.99,5.0,https://live.data.necs.ca/storage/products/rays_of_light.webp?lastmode=1751510258?lastmode=1751510258
+Élégance fantaisiste,107.99,107.99,4.0,https://live.data.necs.ca/storage/products/whimsical_elegance.webp?lastmode=1751510258?lastmode=1751510258
+Couchers de Soleil,54.99,81.99,4.0,https://live.data.necs.ca/storage/products/heavenly_sunsets.webp?lastmode=1751510258?lastmode=1751510258
+Gerberas Magnifique,24.99,44.99,5.0,https://live.data.necs.ca/storage/products/gorgeous_gerberas.webp?lastmode=1751510258?lastmode=1751510258
+Délice joyeux,80.99,80.99,5.0,https://live.data.necs.ca/storage/products/joyous_delight_thumb.webp?lastmode=1751510258?lastmode=1751510258
